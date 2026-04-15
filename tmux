@@ -45,7 +45,7 @@ C-a !  # pane -> window
 C-a o  # next pane
 C-a ;  # last pane
 exit   # close pane
-C-a "          # split T/B
+# C-a "        # split T/B
 
 # Copy (set -g mode-keys vi)
 C-a [      # enter copy mode
