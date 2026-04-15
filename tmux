@@ -31,8 +31,7 @@ C-a w      # window picker
 C-a f      # find window
 
 # Panes (Splits)
-C-a |  C-a %   # split L/R
-C-a -  C-a \"   # split T/B
+C-a %          # split L/R
 C-a arrows     # move panes
 C-a hjkl       # move (vi)
 C-h/j/k/l      # vim-nav
@@ -46,6 +45,7 @@ C-a !  # pane -> window
 C-a o  # next pane
 C-a ;  # last pane
 exit   # close pane
+C-a "          # split T/B
 
 # Copy (set -g mode-keys vi)
 C-a [      # enter copy mode
