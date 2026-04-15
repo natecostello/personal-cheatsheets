@@ -32,7 +32,7 @@ C-a f      # find window
 
 # Panes (Splits)
 C-a |  C-a %   # split L/R
-C-a -  C-a "   # split T/B
+C-a -  C-a \"   # split T/B
 C-a arrows     # move panes
 C-a hjkl       # move (vi)
 C-h/j/k/l      # vim-nav
